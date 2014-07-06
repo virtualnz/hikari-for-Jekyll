@@ -4,7 +4,7 @@
   <id>http://m3xm.github.io</id>
   <link href="http://m3xm.github.io" />
   <link href="http://m3xm.github.io/atom.xml" rel="self" />
-  <updated>2014-07-06T11:01:00+09:00</updated>
+  <updated>2014-07-06T11:08:58+09:00</updated>
   <rights>Copyright 2014, John Doge</rights>
   <author>
     <name>John Doge</name>
@@ -105,7 +105,7 @@
   &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;blocks&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/img2.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/hikari-for-Jekyll/assets/img/img2.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;heading-1&quot;&gt;Heading 1&lt;/h1&gt;
 &lt;p&gt;Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.&lt;/p&gt;
@@ -129,7 +129,7 @@
     <entry>
       <title>Moving to Tokyo, yeeha!</title>
       <link href="http://m3xm.github.io/2014/01/23/moving-to-tokyo/" />
-      <summary type="html">&lt;p&gt;&lt;img src=&quot;/assets/img/img1.jpg&quot; /&gt;&lt;/p&gt;
+      <summary type="html">&lt;p&gt;&lt;img src=&quot;/hikari-for-Jekyll/assets/img/img1.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin.&lt;/p&gt;
 
