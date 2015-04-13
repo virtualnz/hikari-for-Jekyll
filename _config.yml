@@ -1,0 +1,35 @@
+# Title of your blog; shows in the header
+name: "斗夢"
+
+# Description of your content (will only be used on Google Search)
+description: "Tom Hackshaw's blog"
+
+# Your name. Will show in your footer + sidebar 
+author: "Tom Hackshaw"
+
+url: "http://tomhackshaw.com"
+baseurl: "/hikari-for-Jekyll"
+
+# A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words. 
+author-bio: "Artist. Blog discussing art, technology, and other things."
+
+# Social Accounts (mine, as placeholders)
+
+twitter: tomhackshaw
+
+
+
+# Other (refer to http://jekyllrb.com/docs/home/ for further details on the below)
+
+markdown: kramdown
+permalink: pretty
+highlighter: pygments
+
+paginate: 10
+paginate_path: "/page/:num"
+
+# SCSS
+
+sass:
+  sass_dir: _scss
+  style: :compressed
